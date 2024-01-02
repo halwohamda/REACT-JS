@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    
+}
+ 
+.items{
+    background-color: wheat;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    width: 400px;
+    box-shadow: 12px 12px 4px whitesmoke;
+}
+.spnLoading{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    
+}
+.err{
+   color: white;
+   font-size: 100px;
+   text-transform: capitalize;
+   justify-content: center;
+
+}
